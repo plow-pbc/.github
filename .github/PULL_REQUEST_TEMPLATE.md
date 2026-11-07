@@ -5,7 +5,7 @@
 <!-- Business case. Requested by: <user, or "nobody — internal"> -->
 
 ## Outside users today
-<!-- People outside the company actively using this software or infra, e.g. "about 1 (<name>)", or "0 — internal tooling". -->
+<!-- People outside the company actively using this software or infra, e.g. "1-5 (design partners)", or "0 — internal tooling". -->
 
 ## Minimal solution for that user count
 <!-- The original expected complexity: the simplest thing that serves those users, e.g. fizzbuzz for 1 user ≈ 5 lines and n conditionals. -->
